@@ -2,4 +2,7 @@
   <Folder Name="/01/">
     <Project Path="EsParONo/EsParONo.csproj" Id="d73c6426-7b01-4e87-9120-57d3b4a324ca" />
   </Folder>
+  <Folder Name="/02/">
+    <Project Path="ElnumeroMayor/ElnumeroMayor.csproj" Id="41ee8059-cecc-4dfa-89d5-73b86c399fcb" />
+  </Folder>
 </Solution>
