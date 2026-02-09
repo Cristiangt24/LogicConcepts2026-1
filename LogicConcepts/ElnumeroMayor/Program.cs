@@ -5,7 +5,7 @@ var options = new List<string> { "s", "n" };
 
 do
 {
-    Console.WriteLine("Ingrese 3 números diferentes");
+    Console.WriteLine("!Hola!-Ingrese 3 números diferentes");
     var a = ConsoleExtension.GetInt("Ingrese primer número : ");
     var b = ConsoleExtension.GetInt("Ingrese segundo número: ");
     var c = ConsoleExtension.GetInt("Ingrese tercer número : ");
@@ -18,9 +18,13 @@ do
     {
         Console.WriteLine($"El número mayor es: {b}");
     }
-    else
+    else if (c > a && c > b)
     {
-        Console.WriteLine($"El número mayor es: {c}");
+        Console.WriteLine($"El número mayor es:: {c}");
+    }
+    else if (a == b && b == c)
+    {
+        Console.WriteLine("Los numeros que escribiste son iguales");
     }
 
     do
