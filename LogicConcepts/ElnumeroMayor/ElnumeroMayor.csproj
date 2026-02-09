@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\LogicConcepts.2024.1\LogicConcepts\Shared\Shared.csproj" />
+  </ItemGroup>
+
 </Project>

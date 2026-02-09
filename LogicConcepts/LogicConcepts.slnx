@@ -5,4 +5,7 @@
   <Folder Name="/02/">
     <Project Path="ElnumeroMayor/ElnumeroMayor.csproj" Id="41ee8059-cecc-4dfa-89d5-73b86c399fcb" />
   </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="../../LogicConcepts.2024.1/LogicConcepts/Shared/Shared.csproj" />
+  </Folder>
 </Solution>
