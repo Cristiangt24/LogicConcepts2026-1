@@ -8,6 +8,9 @@
   <Folder Name="/03/">
     <Project Path="MayorMedioMenor/MayorMedioMenor.csproj" Id="5565f8d3-c194-4286-b73a-c349eadddca0" />
   </Folder>
+  <Folder Name="/04/">
+    <Project Path="EsMultiplo/EsMultiplo.csproj" Id="3044d06e-7d15-46c5-a131-2a803269a715" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="../../LogicConcepts.2024.1/LogicConcepts/Shared/Shared.csproj" />
   </Folder>
