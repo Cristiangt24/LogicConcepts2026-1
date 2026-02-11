@@ -1,27 +1,27 @@
 <Solution>
   <Folder Name="/01/">
-    <Project Path="EsParONo/EsParONo.csproj" Id="d73c6426-7b01-4e87-9120-57d3b4a324ca" />
+    <Project Path="EsParONo/EvenOrOdd.csproj" Id="d73c6426-7b01-4e87-9120-57d3b4a324ca" />
   </Folder>
   <Folder Name="/02/">
-    <Project Path="ElnumeroMayor/ElnumeroMayor.csproj" Id="41ee8059-cecc-4dfa-89d5-73b86c399fcb" />
+    <Project Path="ElnumeroMayor/LargerNumber.csproj" Id="41ee8059-cecc-4dfa-89d5-73b86c399fcb" />
   </Folder>
   <Folder Name="/03/">
-    <Project Path="MayorMedioMenor/MayorMedioMenor.csproj" Id="5565f8d3-c194-4286-b73a-c349eadddca0" />
+    <Project Path="MayorMedioMenor/GreaterMediumMenor.csproj" Id="5565f8d3-c194-4286-b73a-c349eadddca0" />
   </Folder>
   <Folder Name="/04/">
-    <Project Path="EsMultiplo/EsMultiplo.csproj" Id="3044d06e-7d15-46c5-a131-2a803269a715" />
+    <Project Path="EsMultiplo/IsMultiple.csproj" Id="3044d06e-7d15-46c5-a131-2a803269a715" />
   </Folder>
   <Folder Name="/05/">
-    <Project Path="AñoBisiesto/AñoBisiesto.csproj" Id="47363713-8f9e-4b16-b329-334609577bc8" />
+    <Project Path="AñoBisiesto/LeapYear.csproj" Id="47363713-8f9e-4b16-b329-334609577bc8" />
   </Folder>
   <Folder Name="/06/">
-    <Project Path="NominaSencilla/NominaSencilla.csproj" Id="3ba50c05-fc00-4528-90c2-87a3e804fcdf" />
+    <Project Path="NominaSencilla/SimplePayroll.csproj" Id="3ba50c05-fc00-4528-90c2-87a3e804fcdf" />
   </Folder>
   <Folder Name="/07/">
-    <Project Path="Descuentos/Descuentos.csproj" Id="76601679-1eb8-4382-b088-6174a55ac777" />
+    <Project Path="Descuentos/Discounts.csproj" Id="76601679-1eb8-4382-b088-6174a55ac777" />
   </Folder>
   <Folder Name="/08/">
-    <Project Path="ValorMatricula/ValorMatricula.csproj" Id="4174d8bf-782b-4ac8-975b-393d0073c810" />
+    <Project Path="ValorMatricula/Registration.csproj" Id="4174d8bf-782b-4ac8-975b-393d0073c810" />
   </Folder>
   <Folder Name="/Shared/">
     <Project Path="../../LogicConcepts.2024.1/LogicConcepts/Shared/Shared.csproj" />
