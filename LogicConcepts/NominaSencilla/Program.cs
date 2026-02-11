@@ -1,4 +1,5 @@
 ﻿using Shared;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 var answer = string.Empty;
 var options = new List<string> { "s", "n" };
@@ -6,21 +7,21 @@ var options = new List<string> { "s", "n" };
 do
 {     
     Console.WriteLine("Bienvenido al sistema de nómina sencilla");
-    var Usuario = ConsoleExtension.GetString("Ingrese el nombre del empleado: ");
-    var HorasTrabajadas = ConsoleExtension.GetDecimal("Ingrese el numero de horas trabajadas del empleado: ");
-    var ValorHora = ConsoleExtension.GetDecimal("Ingrese el valor por hora del empleado: ");
-    var Salario = ConsoleExtension.GetDecimal("Ingrese el salario minimo del mes ");
-    var SalarioTotal = HorasTrabajadas * ValorHora;
+    var User = ConsoleExtension.GetString("Ingrese el nombre del empleado: ");
+    var HoursWorked = ConsoleExtension.GetDecimal("Ingrese el numero de horas trabajadas del empleado: ");
+    var hourlyrate = ConsoleExtension.GetDecimal("Ingrese el valor por hora del empleado: ");
+    var salary = ConsoleExtension.GetDecimal("Ingrese el salario minimo del mes ");
+    var SalaryTotal = HoursWorked * hourlyrate;
 
-    if (SalarioTotal > Salario)
+    if (SalaryTotal > salary)
     {
-        Console.WriteLine($"Empleado:  {Usuario}");
-        Console.WriteLine($"Salario: {SalarioTotal}");
+        Console.WriteLine($"Empleado:  {User}");
+        Console.WriteLine($"Salario: {SalaryTotal}");
         Console.WriteLine("El empleado Gana mas del salario Minimio");
     }
     else
     {
-        Console.WriteLine($"El Nombre del empleado es: {Usuario}");
+        Console.WriteLine($"El Nombre del empleado es: {User}");
     }
     do
     {
