@@ -11,7 +11,11 @@
   <Folder Name="/04/">
     <Project Path="EsMultiplo/EsMultiplo.csproj" Id="3044d06e-7d15-46c5-a131-2a803269a715" />
   </Folder>
+  <Folder Name="/05/">
+    <Project Path="AñoBisiesto/AñoBisiesto.csproj" Id="47363713-8f9e-4b16-b329-334609577bc8" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="../../LogicConcepts.2024.1/LogicConcepts/Shared/Shared.csproj" />
+    <Project Path="Shared2/Shared2.csproj" Id="54dc9f31-5f53-43df-83e2-6f78e0ecaa4a" />
   </Folder>
 </Solution>
