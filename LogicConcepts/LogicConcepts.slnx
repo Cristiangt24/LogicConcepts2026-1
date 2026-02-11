@@ -20,6 +20,9 @@
   <Folder Name="/07/">
     <Project Path="Descuentos/Descuentos.csproj" Id="76601679-1eb8-4382-b088-6174a55ac777" />
   </Folder>
+  <Folder Name="/08/">
+    <Project Path="ValorMatricula/ValorMatricula.csproj" Id="4174d8bf-782b-4ac8-975b-393d0073c810" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="../../LogicConcepts.2024.1/LogicConcepts/Shared/Shared.csproj" />
     <Project Path="Shared2/Shared2.csproj" Id="54dc9f31-5f53-43df-83e2-6f78e0ecaa4a" />
