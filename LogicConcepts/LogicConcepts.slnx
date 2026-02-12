@@ -23,6 +23,12 @@
   <Folder Name="/08/">
     <Project Path="ValorMatricula/Registration.csproj" Id="4174d8bf-782b-4ac8-975b-393d0073c810" />
   </Folder>
+  <Folder Name="/09/">
+    <Project Path="Shipping/Shipping.csproj" Id="0c9e38ad-27e5-4905-bdca-ac53d9322a48" />
+  </Folder>
+  <Folder Name="/10/">
+    <Project Path="SucesoStore/SucesoStore.csproj" Id="6b0249fb-12ba-47e1-88a5-e665f49eeab0" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="../../LogicConcepts.2024.1/LogicConcepts/Shared/Shared.csproj" />
     <Project Path="Shared2/Shared2.csproj" Id="54dc9f31-5f53-43df-83e2-6f78e0ecaa4a" />
