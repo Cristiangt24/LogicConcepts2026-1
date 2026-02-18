@@ -9,6 +9,7 @@ do
     var route = string.Empty;
     do
     {
+        Console.WriteLine("*** INTRODUSCA EL NUMERO DE RUTA ***");
         route = ConsoleExtension.GetValidOptions("Ruta [1][2][3][4]...............................: ", routeOptions);
     } while (!routeOptions.Any(x => x == route));
 
