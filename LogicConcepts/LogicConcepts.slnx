@@ -53,6 +53,12 @@
   <Folder Name="/18/">
     <Project Path="SerieFibonacciModified/SerieFibonacciModified.csproj" Id="dff40b52-d54c-4c7c-8064-0993d1ab5f23" />
   </Folder>
+  <Folder Name="/19/">
+    <Project Path="IsCousin/IsCousin.csproj" Id="9b9a9b0c-1b0e-4d13-a0f7-1d9a32b643bf" />
+  </Folder>
+  <Folder Name="/20/">
+    <Project Path="NumberCousins/NumberCousins.csproj" Id="e4524e1b-211f-483a-82af-271811770070" />
+  </Folder>
   <Folder Name="/Shared/">
     <Project Path="Shared/Shared.csproj" />
   </Folder>
